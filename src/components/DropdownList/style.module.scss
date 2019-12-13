@@ -1,0 +1,15 @@
+.wrapper {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 100%;
+    padding: 0 10px;
+    box-sizing: border-box;
+    z-index: 999;
+
+    ul {
+        background-color: white;
+        border-radius: 3px;
+        box-shadow: 0 2px 4px 0px rgba(0,0,0,0.3);
+    }
+}

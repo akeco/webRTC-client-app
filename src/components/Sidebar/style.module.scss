@@ -1,0 +1,41 @@
+.wrapper {
+    width: 270px;
+    height: 100%;
+    background-color: darkslategray;
+    position: relative;
+}
+
+.section {
+    p {
+        margin: 0;
+        margin-bottom: 10px;
+        padding-left: 10px;
+        color: white;
+        font-size: 14px;
+        cursor: pointer;
+    }
+}
+
+.title {
+    margin: 10px 0 10px 10px;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.list {
+    svg {
+        fill: white;
+    }
+    
+    span {
+        color: white;
+    }
+}
+
+.noContacts {
+    padding: 0 10px;
+    color: rgba(255,255,255,0.8);
+    font-size: 14px;
+    margin: 0;
+}
